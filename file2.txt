@@ -1,2 +1,4 @@
 this is file2.txt
 one more line from remote repo
+one more line from local
+
